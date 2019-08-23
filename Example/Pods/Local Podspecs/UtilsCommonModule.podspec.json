@@ -1,0 +1,22 @@
+{
+  "name": "UtilsCommonModule",
+  "version": "0.1.0",
+  "summary": "A short description of UtilsCommonModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/navydun/UtilsCommonModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "navydun": "navydun@163.com"
+  },
+  "source": {
+    "git": "https://github.com/navydun/UtilsCommonModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UtilsCommonModule/Classes/**/*"
+}
