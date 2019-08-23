@@ -27,3 +27,5 @@ navydun, navydun@163.com
 ## License
 
 UtilsCommonModule is available under the MIT license. See the LICENSE file for more info.
+
+UtilsCommonModule
